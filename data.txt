@@ -1,0 +1,25 @@
+SKI Anthony_Lakes_Mountain_Resort 47500_Anthony_Lakes_Hwy_North_Powder 20 38 42 50
+SKI Cooper_Spur_Mountain_Resort_&_Ski_Area 10755_Cooper_Spur_Rd_Mount_Hood 40 40 20 49
+SKI Cat_Ski_Mt.Bailey 350_Resort_Dr._Diamond_Lake 0 0 100 3000
+SKI Hoodoo_Ski_Area Hwy_20_Box_20_Sisters 30 30 40 15
+SKI Mt.Ashland_Ski_Area 11_Mt._Ashland_Ski_Rd. 15 35 50 64
+SKI Mt.Bachelor_Ski_Area 13000_SW_Century_Dr._Bend 45 35 20 82
+SKI Mt.Hood_Skibowl 87000_East_Hwy_26_Government_Camp 16 10 74 78
+SKI Mt.Hood_Meadows 14040_Hwy_35_Mount_Hood 15 50 35 89
+SKI Timberline_Lodge_&_Ski_Area 27500_E_Timberline_Rd._Government_Camp 25 50 25 109
+SKI Warner_Canyon_Ski_Area 98158_Hwy_140_Lakeview 25 50 25 35
+SKI Willamette_Pass_Resort Hwy_58_Milepost_62_Crescent_Lake 21 45 34 99
+SKATE The_Pavilion 1001_SW_Bradbury_Wy_Bend indoor 72
+SKATE Seventh_Mountain_Resort 18575_SW_Century_Dr._Bend outdoor 18
+SKATE Sunriver_Resort 17600_Center_Dr._Bend indoor 15
+SKATE Bill_Collier_Ice_Arena 5075_Fox_Sparrow_Dr._Klamath outdoor 8
+SKATE Lloyd_Center_Ice_Rink 1405_Lloyd_Center_Portland indoor 17
+SKATE Winterhawks_Skating_Center 9250_SW_Beaverton_Hillsdale_Hwy_Beaverton outdoor 0
+SKATE Sherwood_Ice_Arena 20407_SW_Borchers_Dr_Sherwood indoor 25
+SKATE The_Rink_Exchange 796_W_13th_Ave_Eugene indoor 9
+TUBING Diamond_Lake_Resort 350_Resort_Dr._Diamond_Lake 35
+TUBING Mt.Hood_Skibowl 87000_East_Hwy_26_Government_Camp 39
+TUBING Mt.Bachelor_Snowblast_Tubing_Park 13000_SW_Century_Dr._Bend 40
+TUBING Autobahn_Tubing_Park Hwy_20_Box_20_Sisters 30
+TUBING Salt_Creek_Sno-Park Oakridge 0
+TUBING Table_Mountain_Winter_Play_Area Ashland 0
